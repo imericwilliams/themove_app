@@ -1,3 +1,5 @@
+// Authors: Jaylon Davis, Candace Lissanu, Adaora Orakwue, Eric Williams
+
 import 'package:flutter/material.dart';
 
 void main() {
