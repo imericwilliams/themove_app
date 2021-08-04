@@ -1,6 +1,6 @@
 # the_move_app
 
-A new Flutter project.
+A new Flutter project. themove is a user friendly notification app that notifies George Mason University Students about student life events. Students can personalize their notifications by selecting which organizations they are most interested in. themove app goal is to increase event participation for George Mason Students.
 
 ## Getting Started
 
